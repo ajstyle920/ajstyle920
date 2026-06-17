@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Altaf Jawed 👋
 
-<!--
-**ajstyle920/ajstyle920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS in Data Science & AI @ IIT Madras
 
-Here are some ideas to get you started:
+Interested in Machine Learning, Deep Learning, Computer Vision, NLP and Applied AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### 📌 Minor AI Projects
+A collection of machine learning and deep learning projects built while exploring various AI concepts.
+
+🔗 Repository:
+https://github.com/ajstyle920/minor-ai-projects
+
+### 📌 Computer Vision Internship Work
+Computer vision experiments and internship-related implementations.
+
+🔗 Repository:
+https://github.com/ajstyle920/cv-internship
+
+### 📌 FMML Projects and Labs
+Coursework, assignments and practical implementations from the FMML course.
+
+🔗 Repository:
+https://github.com/ajstyle920/FMML_Project_and_Labs
+
+## Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Scikit-Learn
+- TensorFlow / PyTorch
+- OpenCV
+- Jupyter Notebook
+- Git & GitHub
+
+## Currently Learning
+
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
